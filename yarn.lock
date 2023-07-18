@@ -246,12 +246,12 @@ esbuild@~0.17.6:
     "@esbuild/win32-ia32" "0.17.19"
     "@esbuild/win32-x64" "0.17.19"
 
-esno@^0.16.3:
-  version "0.16.3"
-  resolved "https://registry.npmmirror.com/esno/-/esno-0.16.3.tgz#182bf9b9608278fba1ba2f97d589cb80ba731bc5"
-  integrity sha512-6slSBEV1lMKcX13DBifvnDFpNno5WXhw4j/ff7RI0y51BZiDqEe5dNhhjhIQ3iCOQuzsm2MbVzmwqbN78BBhPg==
+esno@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/esno/-/esno-0.17.0.tgz#8692f002c4fa54b995849350eae6b824537f334e"
+  integrity sha512-w78cQGlptQfsBYfootUCitsKS+MD74uR5L6kNsvwVkJsfzEepIafbvWsx2xK4rcFP4IUftt4F6J8EhagUxX+Bg==
   dependencies:
-    tsx "^3.2.1"
+    tsx "^3.12.7"
 
 follow-redirects@^1.15.0:
   version "1.15.2"
@@ -416,9 +416,9 @@ source-map@^0.6.0:
   resolved "https://registry.npmmirror.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-tsx@^3.2.1:
+tsx@^3.12.7:
   version "3.12.7"
-  resolved "https://registry.npmmirror.com/tsx/-/tsx-3.12.7.tgz#b3b8b0fc79afc8260d1e14f9e995616c859a91e9"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.12.7.tgz#b3b8b0fc79afc8260d1e14f9e995616c859a91e9"
   integrity sha512-C2Ip+jPmqKd1GWVQDvz/Eyc6QJbGfE7NrR3fx5BpEHMZsEHoIxHL1j+lKdGobr8ovEyqeNkPLSKp6SCSOt7gmw==
   dependencies:
     "@esbuild-kit/cjs-loader" "^2.4.2"
